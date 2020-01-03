@@ -17,7 +17,7 @@
     
 # Controls
   Sadly there is no UI, so you'll have to use your keyboard and mouse for everything, here are the controls:
-  ![](https://i.imgur.com/uG97NPs.png)
+  !(https://i.imgur.com/uG97NPs.png)
   
 # Credits / Sources
   - Many thanks to Javidx9 for his very informative youtube video about isometric projection: https://youtu.be/ukkbNKTgf5U
@@ -25,4 +25,4 @@
   - And finally, thanks to this answer I was able to implement tile selection with variable height: https://stackoverflow.com/questions/21842814/mouse-position-to-isometric-tile-including-height?rq=1
 
 # License
-  This project is licensed under the MIT License (https://www.tldrlegal.com/l/mit)
+  This project is licensed under the MIT License (you can find info about the MIT License here: https://www.tldrlegal.com/l/mit)
