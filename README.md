@@ -23,3 +23,6 @@
   - Many thanks to Javidx9 for his very informative youtube video about isometric projection: https://youtu.be/ukkbNKTgf5U
   - Thanks to Clint Bellanger for making a very nice article also about isometric projection (and tile selection using MATH): http://clintbellanger.net/articles/isometric_math/
   - And finally, thanks to this answer I was able to implement tile selection with variable height: https://stackoverflow.com/questions/21842814/mouse-position-to-isometric-tile-including-height?rq=1
+
+# License
+  This project is licensed under the MIT License (https://www.tldrlegal.com/l/mit)
